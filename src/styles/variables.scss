@@ -1,0 +1,23 @@
+$tablet-width: 768px;
+
+$flower-thumbnail-width: 280px;
+$flower-thumbnail-height: 350px;
+
+$flower-thumbnail-width-xs: 185px;
+$flower-thumbnail-height-xs: 230px;
+
+$box-background-primary: #F9F9F9;
+
+$color-primary: #377d5c;
+$color-secondary: #6d6d6d;
+$gray: #9fabad;
+$gray-lighter: lighten($gray, 20%);
+$gray-darker: darken($gray, 20%);
+
+$button-gradient: linear-gradient(270deg, #377D5C 0%, #377D5C 100%);
+$color-secondary: #949EA0;
+
+$font-ubuntu: 'Ubuntu', sans-serif;
+
+$spacing-s: 30px;
+$spacing-xs: 16px;
